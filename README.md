@@ -39,7 +39,7 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repository-url]
+    git clone [https://github.com/lindamakk/LearningJourney.git]
     ```
 2.  **Open the project** in Xcode.
 3.  **Run** on an iOS 16.0+ simulator or device (**Cmd + R**).
